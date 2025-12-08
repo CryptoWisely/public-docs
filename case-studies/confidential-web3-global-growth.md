@@ -1,3 +1,12 @@
+<!--
+title: "Confidential Web3 Global Growth Case Study"
+description: "Global marketing architecture, narrative design and community expansion for an early-stage Web3 product."
+year: "2023–2024"
+-->
+
+<p align="center">
+  <img src="https://orcunonur.com/wp-content/uploads/2025/11/Screenshot-2025-11-25-at-17.55.12.png" width="600" alt="Confidential Web3 Growth Header"/>
+</p>
 # Case 4 – CryptoWisely.io (Confidential Client): Global Web3 Growth & Token Activation
 
 **Agency:** CryptoWisely.io  
