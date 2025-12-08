@@ -1,8 +1,9 @@
----
+
+<!--
 title: "BtcTurk Integrated Growth Case Study"
-description: "Representative Visual — Campaign execution recognized with Insider LIFT Awards 2021."
+description: "Representative Visual — …"
 year: "2018–2020"
----
+-->
 
 <p align="center">
   <img src="https://orcunonur.com/wp-content/uploads/2025/11/Insider_2021_Odul_3.jpg" width="600" alt="BtcTurk Award Header"/>
