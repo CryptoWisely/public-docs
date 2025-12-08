@@ -1,3 +1,13 @@
+<!--
+title: "Stablex Post-Acquisition Launch Case Study"
+description: "Full-scale activation, product growth and user acquisition after acquisition by Akbank/Ak Yatırım."
+year: "2021–2023"
+-->
+
+<p align="center">
+  <img src="https://orcunonur.com/wp-content/uploads/2025/11/Screenshot-2025-11-25-at-17.56.51-e1764082700150.png" width="600" alt="Stablex Post-Launch Header"/>
+</p>
+
 # Case 3 – Stablex (Akbank Group): Post-Acquisition Brand Launch & Trust-Building
 
 **Position:** Marketing Director  
