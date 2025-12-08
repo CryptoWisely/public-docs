@@ -10,6 +10,7 @@ Welcome to the official public repository of **CryptoWisely**, a consultancy gui
 
 ## 📘 Table of Contents
 - [About CryptoWisely](#-about-cryptowisely)
+- [📂 Case Studies](#-case-studies)
 - [I — Strategic Marketing, GTM and Corporate Growth](#-i--strategic-marketing-gtm-and-corporate-growth)
 - [II — Regulatory, Licensing and Compliance Coordination](#-ii--regulatory-licensing-and-compliance-coordination)
 - [III — Product, Tokenization and Launch Advisory](#-iii--product-tokenization-and-launch-advisory)
@@ -18,6 +19,17 @@ Welcome to the official public repository of **CryptoWisely**, a consultancy gui
 - [VI — Global Market Expansion](#-vi--global-market-expansion)
 - [VII — Market Intelligence and Research](#-vii--market-intelligence-and-research)
 - [VIII — Ecosystem and Partner Services](#-viii--ecosystem-and-partner-services)
+---
+
+## Case Studies 📂 
+Explore anonymized and public case studies:
+
+- [BtcTurk Integrated Growth](case-studies/btcturk-integrated-growth.md)  
+- [Stablex Pre-Acquisition Launch](case-studies/stablex-pre-acquisition-launch.md)  
+- [Stablex Post-Acquisition Launch](case-studies/stablex-post-acquisition-launch.md)  
+- [Confidential Web3 Global Growth](case-studies/confidential-web3-global-growth.md)
+
+---
 
 ## 🚀 About CryptoWisely
 We support Web3, digital asset, and fintech companies turn complex ideas into scalable, compliant growth by combining market strategy, regulatory awareness, tokenization insights, community expertise, and modern marketing execution. Our goal is to help teams build trust, gain real traction, and become truly competitive in global markets.
@@ -123,3 +135,11 @@ Specialized partners enhancing credibility, trust and ecosystem engagement.
 **LinkedIn:** https://www.linkedin.com/company/cryptowiselyio/  
 
 For consulting, partnerships or collaboration inquiries, please reach out anytime.
+
+---
+
+<p align="center">
+  <sub><strong>Version:</strong> 1.0.0 • <strong>Last Updated:</strong> December 2025<br>
+  Maintained by <strong>CryptoWisely Team ©</strong></sub>
+</p>
+
