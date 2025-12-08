@@ -1,3 +1,13 @@
+<!--
+title: Stablex Pre-Acquisition Launch Case Study
+description: Corporate market entry, regulated messaging and institutional onboarding setup
+year: 2021–2022
+-->
+
+<p align="center">
+  <img src="https://orcunonur.com/wp-content/uploads/2025/11/Stablex_Blurred_907x508_cover.png" width="600" alt="Stablex Pre-Launch Header"/>
+</p>
+
 # Case 2 – Stablex (Ak Yatırım / Akbank Group): Pre-Acquisition Launch & Investor Communication
 
 **Position:** Marketing Director  
