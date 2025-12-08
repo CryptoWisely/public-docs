@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://cryptowisely.io/wp-content/uploads/2025/12/CryptoWisely_Github_Banner.png" width="600" alt="CryptoWisely Banner"/>
+  <img src="http://cryptowisely.io/wp-content/uploads/2025/12/CryptoWisely_Github_Banner-1.png" width="2000" alt="CryptoWisely Banner"/>
 </p>
 
 # public-docs
