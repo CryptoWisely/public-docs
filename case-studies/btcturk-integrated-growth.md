@@ -1,7 +1,17 @@
+---
+title: BtcTurk Integrated Growth Case Study
+description: Representative Visual: Campaign execution recognized with Insider LIFT Awards 2021.
+year: 2018–2020
+---
+
+<p align="center">
+  <img src="https://orcunonur.com/wp-content/uploads/2025/11/Insider_2021_Odul_3.jpg" width="600" alt="BtcTurk Award Header"/>
+</p>
+
 # Case 1 – BtcTurk | PRO: Integrated Growth, Activation & Community Campaign
 
-**Position:** Head of Brand Manager  
-**Period:** 2020 – 2021 (6 months)  
+**Position:** Brand Manager  
+**Period:** 2018–2020 (Accelerated contribution to user growth from 900K → 5M+)  
 **Scope:** User acquisition, reactivation, social engagement, and community growth  
 **Award:** Insider LIFT Awards 2021 – Highest Mobile Engagement & Best Use of Insider Platform (Winner)
 
@@ -73,7 +83,6 @@ A continuous flow of organic and community-focused campaigns kept users engaged 
 
 - Real-time segmentation of user journeys (sign-up, deposit, trading behavior)  
 - Trigger-based campaigns:
-
   - *Registered but not deposited* → personalized push + offer  
   - *Inactive for 30+ days* → 0% trading fee incentive  
   - *Power users* → tier upgrade & exclusive benefits  
@@ -83,11 +92,8 @@ A continuous flow of organic and community-focused campaigns kept users engaged 
 ### Recognition
 
 The campaign won two **Insider LIFT Awards (2021)**:
-
 - *Highest Mobile Engagement*  
 - *Best Use of Insider Platform*  
-
-BtcTurk | PRO became one of Türkiye’s most engaging financial apps, and I was recognized for leading strategic implementation and creative integration.
 
 ---
 
@@ -109,6 +115,8 @@ BtcTurk | PRO became one of Türkiye’s most engaging financial apps, and I was
 | Reactivation Cost (CPA)    | —        | $4.1       | —       |
 | Revenue Growth             | —        | +48 %      | —       |
 | Profit Margin              | 21 %     | 33 %       | +12 pts |
+
+> *Profit margin impact is an estimation based on growth indicators and available public metrics.*
 
 ---
 
