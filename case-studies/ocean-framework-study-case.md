@@ -1,14 +1,12 @@
-<!--
-title: "Ocean Framework – Regulated Digital Asset Decision Architecture"
-description: "A legal-first decision framework for designing regulated digital asset, RWA, and settlement systems without premature lock-in."
-year: "2024–2025"
--->
+# NDA Case — Ocean Framework | Regulated Digital Asset Decision Architecture
 
-# Ocean Framework — Framework Study Case (Access-Controlled)
+**Visibility:** Access-controlled (NDA)  
+**Scope:** Regulated digital asset systems, RWA structures, settlement sequencing and institutional market access  
+**Timeframe:** 2024–2025  
+**Access:** https://cryptowisely.io/confidential-case-access-request/
 
-**Type:** Strategic advisory framework  
-**Focus:** Regulated digital asset systems, RWA, settlement rails, and institutional market access  
-**Status:** Access-controlled (NDA)
+**Engagement Type:** Strategic advisory framework  
+**Status:** Sample framework snapshot — non-distributable
 
 ---
 
@@ -16,46 +14,49 @@ year: "2024–2025"
 
 Ocean Framework is a **decision architecture** designed to help institutions structure regulated digital asset systems *before execution begins*.
 
-It focuses on **decision sequencing**, not technology selection — ensuring that early product, token, and settlement choices do not create irreversible regulatory, custody, or market-access risk.
+Rather than starting from technology, token design, or market narratives, the framework focuses on **decision sequencing** — ensuring that early structural choices do not introduce irreversible regulatory, custody, or market-access risk.
 
-This is **not** a token launch case, technical blueprint, or marketing narrative.
+This is **not** a token launch case, technical implementation blueprint, or marketing playbook.
 
 ---
 
 ## Core problem addressed (abstracted)
 
-Teams building regulated digital asset systems often face hidden structural risks caused by:
+Teams building regulated digital asset and RWA systems frequently encounter hidden structural risk caused by:
 
-- Token roles defined before legal boundaries  
-- Representation implying ownership, yield, or claims  
-- Settlement rails selected too early  
-- Compliance treated as validation, not a design constraint  
+- Token roles defined before legal boundaries are established  
+- Representations implying ownership, yield, or economic claims  
+- Settlement rails selected prematurely  
+- Compliance treated as post-validation instead of a design constraint  
 
-Ocean Framework was designed to **prevent these failures before they materialize**.
+Ocean Framework was designed to **eliminate these failure points upstream**, before capital, infrastructure, or regulatory exposure is locked in.
 
 ---
 
 ## Framework approach (high-level)
 
-The framework separates decisions into four distinct layers:
+The framework structures decisions into four sequenced layers:
 
-1. **Legal boundaries** — what the system is allowed to do  
-2. **Token role definition** — constrained by exclusion, not ambition  
-3. **Representation controls** — reference without claims  
-4. **Settlement rails & market access** — sequenced last, not first  
+1. **Legal boundaries**  
+   What the system is permitted to do under applicable regulatory regimes
 
-This sequencing preserves **regulatory stability, custody clarity, and future optionality**.
+2. **Token role definition**  
+   Utility and representation constrained by exclusion, not ambition
+
+3. **Representation controls**  
+   Reference-based structures without ownership, yield, or claim implication
+
+4. **Settlement rails & market access**  
+   Selected last — preserving custody clarity, jurisdictional flexibility, and future optionality
+
+This sequencing protects **regulatory stability, operational clarity, and long-term system adaptability**.
 
 ---
 
 ## Visibility note
 
-This document is a **sample snapshot** of a real advisory framework.  
-Detailed implementation logic, diagrams, and client-specific decisions are shared **only under NDA**.
+This page represents a **sanitized snapshot** of a real advisory framework.
 
-If relevant to your scope, controlled access can be requested.
+Detailed decision trees, diagrams, legal mappings, and client-specific implementation logic are shared **exclusively under NDA**.
 
----
-
-### Request access
-👉 https://cryptowisely.io/confidential-case-access-request/
+Full access may be provided selectively if relevant to your scope.
