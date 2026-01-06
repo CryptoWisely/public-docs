@@ -16,6 +16,11 @@ year: "2025"
 
 This case demonstrates how **CryptoWisely.io** designs **repeatable, institution-ready go-to-market systems** for early-stage Web3 and AI-driven protocols.
 
+**Visibility:** Access-controlled (NDA)  
+**Scope:** Strategic GTM architecture, token utility design and ecosystem activation  
+**Timeframe:** 2025  
+**Access:** https://cryptowisely.io/confidential-case-access-request/
+
 The engagement focused on aligning:
 - product narrative,
 - token utility,
@@ -52,6 +57,3 @@ to protect confidential strategy and IP.
 
 Full documentation, frameworks, and implementation details  
 are shared **selectively upon request**.
-
-👉 **Request access:**  
-https://cryptowisely.io/confidential-case-access-request/
