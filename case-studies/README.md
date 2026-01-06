@@ -5,4 +5,5 @@ This folder will contain public case studies and anonymized examples.
 	•	NovaX (access-controlled)
 	•	Oceon (access-controlled)
 	•	RWA Infrastructure (access-controlled)
-	•	En alta: Request access linki
+**Access (extended material):** https://cryptowisely.io/confidential-case-access-request/
+
