@@ -13,6 +13,10 @@ references_hub: "https://cryptowisely.io/#references"
 
 # BtcTurk | PRO — Integrated Growth, Activation & Community Campaign
 
+**Visibility:** Public  
+**Scope:** Integrated exchange growth, activation and community-led scale  
+**Timeframe:** 2018–2020
+
 **Role:** Brand Manager  
 **Period:** 2018–2020  
 **Impact Window:** Accelerated contribution to scaling users from **900K → 5M+**  
