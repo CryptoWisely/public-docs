@@ -1,43 +1,48 @@
-# NDA Case — RWA Infrastructure & Market Access (US-Focused)
+# RWA Infrastructure & Market Access — Architecture-Level Case (US-Focused)
 
-**Visibility:** Access-controlled (NDA)  
+**Visibility:** Public (Architecture-level / Non-confidential)  
 **Scope:** US-grade RWA infrastructure design, settlement sequencing and institutional market access  
 **Timeframe:** 2024–2025  
-**Access:** https://cryptowisely.io/confidential-case-access-request/
+**Access (extended material):** https://cryptowisely.io/confidential-case-access-request/
 
-**Engagement Type:** Architecture-level advisory  
-**Status:** Illustrative framework snapshot — non-distributable
+**Engagement Type:** Strategic architecture advisory  
+**Status:** Illustrative reference case — no client-identifying data
 
 ---
 
 ## What this case represents
 
-This case represents a **US-grade Real World Asset (RWA) infrastructure design** created to enable institutional market access **without introducing speculative token risk**.
+This case represents an **architecture-level RWA design** focused on enabling **institutional market access** to real-world assets **without introducing speculative token exposure**.
 
-The engagement focused on structuring **compliance-first, non-speculative exposure** to real-world assets while preserving settlement integrity, custody clarity, and regulatory optionality.
+It illustrates how CryptoWisely approaches **compliance-first RWA system design**, emphasizing decision sequencing, custody clarity, and settlement integrity rather than product hype or token issuance.
 
-This is **not** a token issuance, product launch, or investment vehicle case.
+This is **not** a token launch, investment product, or commercial offering case.
 
 ---
 
 ## Core problem addressed (abstracted)
 
-Institutions exploring RWA exposure frequently encounter structural risk caused by:
+Institutions exploring RWA exposure commonly face structural risk caused by:
 
 - Asset representation defined before legal boundaries  
 - Token constructs implying ownership, yield, or economic claims  
 - Custody and redemption logic misaligned with regulatory expectations  
 - Settlement rails selected before compliance and control layers are fixed  
 
-This engagement was designed to **resolve these issues at the architecture level**, prior to execution.
+This case demonstrates how those risks are **resolved upstream**, at the architectural decision level.
 
 ---
 
 ## Architectural direction (high-level)
 
-A **hybrid, US-grade infrastructure model** was defined with strict separation between representation, ownership, and settlement.
+A **hybrid, US-grade infrastructure model** was designed with strict separation between:
 
-The design intentionally prioritizes **regulatory clarity over speed or liquidity signaling**.
+- representation  
+- ownership  
+- custody  
+- and settlement  
+
+The guiding principle was **regulatory clarity first**, preserving future optionality while avoiding premature lock-in.
 
 ---
 
@@ -64,9 +69,9 @@ The design intentionally prioritizes **regulatory clarity over speed or liquidit
 
 ## Visibility note
 
-This page represents a **sanitized, illustrative snapshot** of a real RWA advisory engagement.
+This page presents a **public, illustrative reference** of CryptoWisely’s RWA advisory approach.
 
-Detailed diagrams, legal mappings, asset structures, and implementation logic  
-are intentionally excluded due to NDA and regulatory sensitivity.
+Client-specific structures, legal mappings, and implementation diagrams  
+are excluded and shared **only upon request** where appropriate.
 
-Full access may be provided selectively if relevant to your scope.
+Extended documentation may be reviewed selectively.
