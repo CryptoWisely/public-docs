@@ -1,78 +1,72 @@
-<!--
-title: "RWA Infrastructure & Market Access (US-Focused)"
-type: "NDA Case — Illustrative"
-period: "2024–2025"
-visibility: "Redacted / Architecture-level"
--->
-
 # NDA Case — RWA Infrastructure & Market Access (US-Focused)
 
-This case represents a **US-grade Real World Asset (RWA) infrastructure design** focused on institutional market access, settlement logic, and compliance-aligned architecture.
+**Visibility:** Access-controlled (NDA)  
+**Scope:** US-grade RWA infrastructure design, settlement sequencing and institutional market access  
+**Timeframe:** 2024–2025  
+**Access:** https://cryptowisely.io/confidential-case-access-request/
 
-The content below is **illustrative and intentionally limited**.  
-No token issuance, commercial terms, or client-identifying information is disclosed.
+**Engagement Type:** Architecture-level advisory  
+**Status:** Illustrative framework snapshot — non-distributable
 
 ---
 
 ## What this case represents
 
-This engagement addressed a common institutional challenge:
+This case represents a **US-grade Real World Asset (RWA) infrastructure design** created to enable institutional market access **without introducing speculative token risk**.
 
-> Building compliant RWA exposure **without issuing a speculative token**,  
-> while maintaining regulatory clarity and settlement integrity.
+The engagement focused on structuring **compliance-first, non-speculative exposure** to real-world assets while preserving settlement integrity, custody clarity, and regulatory optionality.
 
----
-
-## Initial problem statement (abstracted)
-
-- Fragmented separation between product logic, settlement flows, and legal claims  
-- Regulatory ambiguity around ownership and investor protections  
-- Custody and redemption design inconsistencies  
-- Lack of institutional-grade execution boundaries
+This is **not** a token issuance, product launch, or investment vehicle case.
 
 ---
 
-## Chosen direction — Hybrid US-grade architecture
+## Core problem addressed (abstracted)
 
-A **hybrid infrastructure model** was designed to ensure regulatory alignment while preserving operational flexibility.
+Institutions exploring RWA exposure frequently encounter structural risk caused by:
 
-### Design layers (illustrative)
+- Asset representation defined before legal boundaries  
+- Token constructs implying ownership, yield, or economic claims  
+- Custody and redemption logic misaligned with regulatory expectations  
+- Settlement rails selected before compliance and control layers are fixed  
 
-| Layer        | Role |
-|-------------|------|
-| Token logic | Access & compliance signal (no yield, no ownership claim) |
-| Ownership   | Off-chain custodial / SPV-based structure |
-| Transfers   | Permissioned and conditional |
-| Settlement  | Multi-rail compatible (tokenized deposits / stablecoin rails) |
+This engagement was designed to **resolve these issues at the architecture level**, prior to execution.
 
 ---
 
-## Execution roadmap (high-level)
+## Architectural direction (high-level)
 
-- Compliance-first onboarding flows  
-- Account mapping (issuer, custodian, participant)  
-- Permissioned transfer logic  
-- Market sequencing (flow-first, not liquidity-first)
+A **hybrid, US-grade infrastructure model** was defined with strict separation between representation, ownership, and settlement.
+
+The design intentionally prioritizes **regulatory clarity over speed or liquidity signaling**.
 
 ---
 
-## Deliverables (surface-level)
+## Decision layers (illustrative)
 
-- Architecture blueprint (redacted)  
-- Compliance & flow documentation  
-- Market access narrative (institutional-facing)  
-- Risk & dependency mapping
+| Layer | Architectural intent |
+|------|----------------------|
+| Legal boundary | Define permissible exposure and investor protection constraints |
+| Representation logic | Reference-based signals without ownership or yield implication |
+| Ownership & custody | Off-chain, regulated custodial or SPV-aligned structures |
+| Transfer controls | Permissioned, conditional, and jurisdiction-aware |
+| Settlement rails | Selected last to preserve flexibility (tokenized deposits / stablecoin-compatible) |
+
+---
+
+## Execution sequencing (abstracted)
+
+- Compliance-first participant onboarding  
+- Role and account mapping (issuer, custodian, participants)  
+- Permissioned transfer and control logic  
+- Market access sequencing focused on **flow integrity**, not liquidity optics  
 
 ---
 
 ## Visibility note
 
-This case is shown as an **illustrative architecture example** only.
+This page represents a **sanitized, illustrative snapshot** of a real RWA advisory engagement.
 
-Detailed documentation, diagrams, and implementation specifics  
+Detailed diagrams, legal mappings, asset structures, and implementation logic  
 are intentionally excluded due to NDA and regulatory sensitivity.
 
----
-
-*This placeholder reflects CryptoWisely’s approach to RWA consulting:  
-infrastructure-first, compliance-led, and non-speculative by design.*
+Full access may be provided selectively if relevant to your scope.
