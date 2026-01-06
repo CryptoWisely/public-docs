@@ -1,9 +1,11 @@
 # Case Studies
-This folder will contain public case studies and anonymized examples.
 
-	•	BtcTurk (public)
-	•	NovaX (access-controlled)
-	•	Oceon (access-controlled)
-	•	RWA Infrastructure (access-controlled)
-**Access (extended material):** https://cryptowisely.io/confidential-case-access-request/
+This folder contains public case studies and anonymized examples.
 
+- **BtcTurk (public)**
+- **NovaX (access-controlled)**
+- **Oceon (access-controlled)**
+- **RWA Infrastructure (public)**
+
+Access (extended material — for access-controlled cases only):  
+https://cryptowisely.io/confidential-case-access-request/
