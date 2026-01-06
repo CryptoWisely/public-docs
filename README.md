@@ -2,144 +2,133 @@
   <img src="http://cryptowisely.io/wp-content/uploads/2025/12/CryptoWisely_Github_Banner-1.png" width="2000" alt="CryptoWisely Banner"/>
 </p>
 
-# public-docs
-CryptoWisely's public frameworks, case studies, and documentation hub.
+# CryptoWisely — Public Frameworks & Case Documentation
 
-# CryptoWisely — Public Documentation Hub  
-Welcome to the official public repository of **CryptoWisely**, a consultancy guiding your crypto journey wisely.
+This repository documents how we **think, design, and structure** crypto, Web3, and digital asset strategies.  
+It is **not a service catalog** — it is a public view into our decision frameworks, architecture logic, and execution models.
+
+Welcome to the official public repository of **CryptoWisely**, showcasing how compliant growth, market access, and digital asset systems are designed in practice.
+
+---
 
 ## 📘 Table of Contents
 - [About CryptoWisely](#-about-cryptowisely)
 - [📂 Case Studies](#-case-studies)
-- [I — Strategic Marketing, GTM and Corporate Growth](#-i--strategic-marketing-gtm-and-corporate-growth)
-- [II — Regulatory, Licensing and Compliance Coordination](#-ii--regulatory-licensing-and-compliance-coordination)
-- [III — Product, Tokenization and Launch Advisory](#-iii--product-tokenization-and-launch-advisory)
-- [IV — AI Enhanced Corporate Training and Workshops](#-iv--ai-enhanced-corporate-training-and-workshops)
-- [V — Institutional and Investor Advisory](#-v--institutional-and-investor-advisory)
-- [VI — Global Market Expansion](#-vi--global-market-expansion)
-- [VII — Market Intelligence and Research](#-vii--market-intelligence-and-research)
-- [VIII — Ecosystem and Partner Services](#-viii--ecosystem-and-partner-services)
+- [I — Market Structure & Infrastructure Readiness](#-i--market-structure--infrastructure-readiness)
+- [II — Licensing, Regulation & Compliance Coordination](#-ii--licensing-regulation--compliance-coordination)
+- [III — Product & Tokenization Design Advisory](#-iii--product--tokenization-design-advisory)
+- [IV — GTM Strategy, Growth & Activation](#-iv--gtm-strategy-growth--activation)
+- [V — Institutional & Investor Briefings](#-v--institutional--investor-briefings)
+- [VI — Research & Ecosystem Execution Support](#-vi--research--ecosystem-execution-support)
+
 ---
 
-## Case Studies 📂 
-Explore anonymized and public case studies:
+## 📂 Case Studies
+A compact selection of public and access-controlled case documentation:
 
-- [BtcTurk Integrated Growth](case-studies/btcturk-integrated-growth.md)  
-- [Stablex Pre-Acquisition Launch](case-studies/stablex-pre-acquisition-launch.md)  
-- [Stablex Post-Acquisition Launch](case-studies/stablex-post-acquisition-launch.md)  
-- [Confidential Web3 Global Growth](case-studies/confidential-web3-global-growth.md)
+- [BtcTurk | Integrated Growth & Market Trust](case-studies/btcturk-integrated-growth.md)
+- [NovaX | Strategic GTM & Token Architecture (Confidential)](case-studies/novax-strategic-gtm-token-architecture.md)
+- [Oceon | Framework Study Case (Access-Controlled)](case-studies/ocean-framework-study-case.md)
+- [NDA Case | RWA Infrastructure & Market Access (US-Focused)](case-studies/rwa-infrastructure-market-access.md)
+
+> Some cases are intentionally abstracted.  
+> Full documentation is shared selectively via:  
+> https://cryptowisely.io/confidential-case-access-request/
 
 ---
 
 ## 🚀 About CryptoWisely
-We support Web3, digital asset, and fintech companies turn complex ideas into scalable, compliant growth by combining market strategy, regulatory awareness, tokenization insights, community expertise, and modern marketing execution. Our goal is to help teams build trust, gain real traction, and become truly competitive in global markets.
+CryptoWisely supports Web3, digital asset, and fintech teams in turning complex regulatory, technical, and market realities into **clear, execution-ready operating systems**.
 
-We guide Web3 projects, crypto exchanges, and fintech firms in designing effective marketing and go-to-market strategies. Through our trusted partner network, we also support global execution across licensing, regulation, and regional market entry — ensuring every client can scale confidently and compliantly.
+We work at the intersection of:
+- market structure,
+- regulation,
+- tokenization,
+- custody & settlement,
+- and go-to-market strategy.
 
----
-
-## 🧩 I — Strategic Marketing, GTM and Corporate Growth  
-We help digital asset companies, exchanges and Web3 projects build market-ready strategies with positioning, growth architecture and compliance-aligned messaging.
-
-**Includes:**  
-- Market analysis and institutional audience mapping  
-- Positioning, narrative and messaging architecture  
-- Full Go-To-Market strategy and activation planning  
-- AI supported growth systems and funnel design  
-- KOL, influencer and community activation (in-house)  
-- Performance analytics and ongoing optimization  
+Our role is to help teams build **trust-first, regulation-aware, and institutionally credible growth** — without hype-driven shortcuts.
 
 ---
 
-## 🛡 II — Regulatory, Licensing and Compliance Coordination  
-We coordinate global regulatory and licensing processes through trusted legal partners while guiding clients on compliance expectations.
+## 🧭 I — Market Structure & Infrastructure Readiness
+We help teams understand *how money, custody, and settlement actually move* before any product or token design.
 
-**Includes:**  
-- Company formation and VASP licensing via partners  
-- Exchange, custody and fintech regulatory filings  
-- Stablecoin, tokenization and ETF related advisory  
-- Jurisdiction mapping across EU, MENA, CIS and offshore hubs  
-- AML-sensitive communication and compliance-aligned messaging  
-
----
-
-## 🔧 III — Product, Tokenization and Launch Advisory  
-From concept to launch, we build investor-ready structure and clarity for tokenized products, fintech tools and Web3 platforms.
-
-**Includes:**  
-- Product definition and tokenization framework guidance  
-- Token launch narrative and positioning  
-- Technical audit coordination with verified partners  
-- Launch readiness for exchanges, launchpads and institutional audiences  
-- Investor materials, pitch decks and due-diligence preparation  
+**Focus areas:**
+- Stablecoin vs tokenized deposit vs CBDC rails
+- Custody & settlement flow mapping
+- Market access pathways (banks, brokers, venues)
+- Risk framing: compliance, counterparties, operational safety
 
 ---
 
-## 🎓 IV — AI Enhanced Corporate Training and Workshops  
-Programs designed for executives and teams seeking clarity on digital assets, regulation, tokenization and modern marketing systems.
+## 🛡 II — Licensing, Regulation & Compliance Coordination
+We coordinate regulatory strategy and licensing processes through trusted legal partners while shaping compliance-aligned narratives.
 
-**Includes:**  
-- Executive digital asset and Web3 strategy programs  
-- Tokenization, stablecoin and compliance-focused training  
-- Hands-on workshops with real market case studies  
-- AI-assisted marketing and growth sessions  
-
----
-
-## 🏛 V — Institutional and Investor Advisory  
-Guiding funds, family offices and individuals through the digital asset landscape with structured insights and risk-aware clarity.
-
-**Includes:**  
-- Tokenization, stablecoin and ETF landscape briefings  
-- Market and project research for early-stage and majors  
-- Risk profiles and thematic investment guidance  
-- Web3 onboarding and custody structure guidance  
+**Focus areas:**
+- Jurisdiction mapping (EU, MENA, CIS, offshore hubs)
+- VASP / crypto licensing coordination
+- AML-sensitive communication design
+- Regulatory constraints translated into product logic
 
 ---
 
-## 🌍 VI — Global Market Expansion  
-Helping companies scale across TR, EU, MENA and CIS with regional strategy, localization and compliance-aligned communication.
+## 🔧 III — Product & Tokenization Design Advisory
+From concept to execution, we design **non-speculative, infrastructure-first tokenization models**.
 
-**Includes:**  
-- Regional Go-To-Market planning and execution  
-- Localization and cultural adaptation  
-- Local partner coordination and compliance checks  
-
----
-
-## 📊 VII — Market Intelligence and Research  
-Data-driven insights for founders, investors and ecosystem partners.
-
-**Includes:**  
-- Tokenomics and whitepaper evaluation  
-- Sector reports on Web3, DeFi, NFT, DAO and RWA  
-- Custom research files and competitive analysis  
-- Regulatory updates and policy monitoring  
+**Focus areas:**
+- Product definition & operating model clarity
+- Tokenization logic (what is tokenized, why, and how)
+- Ownership, transfer, and settlement structure design
+- Investor and stakeholder alignment materials
 
 ---
 
-## 🤝 VIII — Ecosystem and Partner Services  
-Specialized partners enhancing credibility, trust and ecosystem engagement.
+## 🚀 IV — GTM Strategy, Growth & Activation
+Once foundations are right, we build the go-to-market sequence — without over-claiming or misaligned narratives.
 
-**Includes:**  
-- Web3 integration for tokenization, NFT and DeFi utilities  
-- Technical audits and cybersecurity partner coordination  
-- Compliance-aligned content and thought leadership  
-- Marketing and community execution (in-house)  
+**Focus areas:**
+- Positioning & narrative architecture
+- ICP definition (institutional vs retail vs hybrid)
+- Channel strategy & activation flows
+- Analytics, dashboards, and optimization loops
 
 ---
 
-## 📫 Contact & Links  
+## 🏛 V — Institutional & Investor Briefings
+Structured briefings for funds, family offices, and corporate teams navigating digital assets.
+
+**Focus areas:**
+- Stablecoin, custody, tokenization landscape briefings
+- Market structure risk & regulatory inflection points
+- Decision-support frameworks (non-promotional)
+- Executive onboarding sessions
+
+---
+
+## 📊 VI — Research & Ecosystem Execution Support
+Research-led support where market clarity or partner coordination is required.
+
+**Focus areas:**
+- Custom research & comparative analysis
+- Tokenization & RWA ecosystem mapping
+- Partner coordination (legal, custody, infra)
+- Compliance-aligned thought leadership support
+
+---
+
+## 📫 Contact & Links
 **Website:** https://cryptowisely.io  
-**Email:** info@cryptowisely.io  
 **LinkedIn:** https://www.linkedin.com/company/cryptowiselyio/  
 
-For consulting, partnerships or collaboration inquiries, please reach out anytime.
+For confidential documentation access or collaboration inquiries:  
+https://cryptowisely.io/confidential-case-access-request/
 
 ---
 
 <p align="center">
-  <sub><strong>Version:</strong> 1.0.0 • <strong>Last Updated:</strong> December 2025<br>
-  Maintained by <strong>CryptoWisely Team ©</strong></sub>
+  <sub>
+    <strong>Version:</strong> 1.1.0 • <strong>Last Updated:</strong> January 2026<br>
+    Maintained by <strong>CryptoWisely ©</strong>
+  </sub>
 </p>
-
