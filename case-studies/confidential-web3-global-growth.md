@@ -1,127 +1,78 @@
 <!--
-title: "Confidential Web3 Global Growth Case Study"
-description: "Global marketing architecture, narrative design and community expansion for an early-stage Web3 product."
-year: "2023–2024"
+title: "RWA Infrastructure & Market Access (US-Focused)"
+type: "NDA Case — Illustrative"
+period: "2024–2025"
+visibility: "Redacted / Architecture-level"
 -->
 
-<p align="center">
-  <img src="https://orcunonur.com/wp-content/uploads/2025/11/Screenshot-2025-11-25-at-17.55.12.png" width="600" alt="Confidential Web3 Growth Header"/>
-</p>
+# NDA Case — RWA Infrastructure & Market Access (US-Focused)
 
-# Case 4 – CryptoWisely.io (Confidential Client): Global Web3 Growth & Token Activation
+This case represents a **US-grade Real World Asset (RWA) infrastructure design** focused on institutional market access, settlement logic, and compliance-aligned architecture.
 
-**Agency:** CryptoWisely.io  
-**Period:** Q2 2025 (3 months)  
-**Scope:** Global growth strategy, token launch activation, organic PR, and community expansion  
-**Confidentiality:** Project name withheld under NDA
+The content below is **illustrative and intentionally limited**.  
+No token issuance, commercial terms, or client-identifying information is disclosed.
 
 ---
 
-## Objectives
+## What this case represents
 
-1. Establish **global visibility and trust** for a new Web3 protocol ahead of its TGE.  
-2. Build a strong **multi-regional community** (Europe, MENA, SEA, LATAM).  
-3. Drive organic awareness via **CMC, CoinGecko, Telegram, Discord, X (Twitter)** and tier-1 media.  
-4. Strengthen **token sales performance & market value** through trust-first storytelling.
+This engagement addressed a common institutional challenge:
 
----
-
-## Strategy & Implementation
-
-### Strategic Positioning & Narrative
-
-- Core narrative: **“Bringing the Real World into Web3.”**  
-- 90-day rollout:
-
-  - **Month 1:** Awareness & PR  
-  - **Month 2:** Community Growth & Token Education  
-  - **Month 3:** Activation & Global Expansion  
-
-- Region-tailored messaging:  
-  - Europe → regulation & compliance  
-  - Asia → accessibility & innovation  
-  - LATAM/MENA → inclusion & financial access
+> Building compliant RWA exposure **without issuing a speculative token**,  
+> while maintaining regulatory clarity and settlement integrity.
 
 ---
 
-### Global PR & Media Visibility
+## Initial problem statement (abstracted)
 
-- Coverage on **CMC News, CoinGecko Spotlight, BeInCrypto, Decrypt, CoinEdition, CryptoSlate, DailyCoin**.  
-- Verified listings and *Trending/Hot* placements on **CMC & CG**.  
-- 15+ mixed-format stories, 6 languages, plus a structured Medium blog series.
-
-**Results**
-
-- **12.4M organic impressions** in 3 months  
-- **45+ earned & syndicated** media features  
-- **Trust index +22%** (CMC & LunarCrush)
+- Fragmented separation between product logic, settlement flows, and legal claims  
+- Regulatory ambiguity around ownership and investor protections  
+- Custody and redemption design inconsistencies  
+- Lack of institutional-grade execution boundaries
 
 ---
 
-### Community Growth (Telegram, Discord, X)
+## Chosen direction — Hybrid US-grade architecture
 
-- Global main group + **8 regional** sub-groups with 24/7 multilingual moderation.  
-- Daily engagement flows: polls, quizzes, memes, Q&A, gamified tasks.  
-- Weekly “Token Talks” AMAs + **25+ local KOL** partnerships.
+A **hybrid infrastructure model** was designed to ensure regulatory alignment while preserving operational flexibility.
 
-**Performance**
+### Design layers (illustrative)
 
-- Community: **0 → 210,000+ members**  
-- Avg engagement: **11.4%**  
-- **68%** of users from organic referrals  
-- **70K+** daily messages at peak
-
----
-
-### Token Activation & Launch
-
-- Education on tokenomics, staking, utility.  
-- Verified presence on **CMC, CG, DappRadar**.  
-- CMC Learn & Earn, airdrops, staking challenges.  
-- Joint promotions with **KuCoin, Bitget, MEXC**.
-
-**Results**
-
-- Token sale reached **184% of target** within 72 hours  
-- Token price: **+260%** in first 30 days  
-- **65,000** staking wallets  
-- **CAC $4.8**, **ROMI 5.2×**
+| Layer        | Role |
+|-------------|------|
+| Token logic | Access & compliance signal (no yield, no ownership claim) |
+| Ownership   | Off-chain custodial / SPV-based structure |
+| Transfers   | Permissioned and conditional |
+| Settlement  | Multi-rail compatible (tokenized deposits / stablecoin rails) |
 
 ---
 
-### Events & Partnerships
+## Execution roadmap (high-level)
 
-- Two virtual summits + side events at **IBW** and **Token2049** (1,000+ professionals).  
-- Global **CMC Community AMA** (350K+ users).  
-- Weekly **X Spaces – Developer & Founder Talks** (avg 12K+ live listeners).
-
----
-
-## Performance Summary
-
-| KPI                     | Target | Achieved | Change   |
-|-------------------------|--------|---------:|---------:|
-| Global Community Size   | 100K   | 210K     | +110 %   |
-| Media Coverage          | 25     | 45+      | +80 %    |
-| Token Sale Goal         | 100 %  | 184 %    | +84 %    |
-| Token Price (30 Days)   | —      | +260 %   | —        |
-| Staking Wallets         | 30K    | 65K      | +116 %   |
-| Avg CAC                 | $6.5   | $4.8     | −26 %    |
-| ROMI                    | 3×     | 5.2×     | —        |
+- Compliance-first onboarding flows  
+- Account mapping (issuer, custodian, participant)  
+- Permissioned transfer logic  
+- Market sequencing (flow-first, not liquidity-first)
 
 ---
 
-## Key Takeaways
+## Deliverables (surface-level)
 
-This campaign proved that:
+- Architecture blueprint (redacted)  
+- Compliance & flow documentation  
+- Market access narrative (institutional-facing)  
+- Risk & dependency mapping
 
-- **Strategic storytelling + verified presence + deep community**  
-  consistently outperform pure paid advertising in Web3.
+---
 
-By the end of the 90-day cycle, the client moved from **stealth** to a **globally recognized Web3 brand**:
+## Visibility note
 
-- strong community,
-- strong token performance,
-- and high marketing efficiency.
+This case is shown as an **illustrative architecture example** only.
 
-> **Representative visual:** Global Web3 Summit / community activation event (used on orcunonur.com).
+Detailed documentation, diagrams, and implementation specifics  
+are intentionally excluded due to NDA and regulatory sensitivity.
+
+---
+
+*This placeholder reflects CryptoWisely’s approach to RWA consulting:  
+infrastructure-first, compliance-led, and non-speculative by design.*
