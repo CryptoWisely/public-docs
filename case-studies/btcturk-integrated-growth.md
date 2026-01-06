@@ -1,132 +1,141 @@
-
 <!--
-title: "BtcTurk Integrated Growth Case Study"
-description: "Representative Visual — …"
-year: "2018–2020"
+title: "BtcTurk | PRO — Integrated Growth Case Study"
+type: "Public"
+period: "2018–2020"
+tags: ["Exchange Growth", "Trust-Led GTM", "Community & Activation"]
+compact_showcase: "https://orcunonur.com/#portfolio"
+references_hub: "https://cryptowisely.io/#references"
 -->
 
 <p align="center">
-  <img src="https://orcunonur.com/wp-content/uploads/2025/11/Insider_2021_Odul_3.jpg" width="600" alt="BtcTurk Award Header"/>
+  <img src="https://orcunonur.com/wp-content/uploads/2025/11/Insider_2021_Odul_3.jpg" width="640" alt="BtcTurk | PRO — Insider LIFT Awards 2021"/>
 </p>
 
-# Case 1 – BtcTurk | PRO: Integrated Growth, Activation & Community Campaign
+# BtcTurk | PRO — Integrated Growth, Activation & Community Campaign
 
-**Position:** Brand Manager  
-**Period:** 2018–2020 (Accelerated contribution to user growth from 900K → 5M+)  
+**Role:** Brand Manager  
+**Period:** 2018–2020  
+**Impact Window:** Accelerated contribution to scaling users from **900K → 5M+**  
 **Scope:** User acquisition, reactivation, social engagement, and community growth  
-**Award:** Insider LIFT Awards 2021 – Highest Mobile Engagement & Best Use of Insider Platform (Winner)
+**Recognition:** *Insider LIFT Awards 2021* — Highest Mobile Engagement & Best Use of Insider Platform
 
 ---
 
-## Campaign Objectives
+## Strategic Objective
 
-1. **New User Acquisition** – Attract first-time crypto investors in Türkiye and establish BtcTurk | PRO as the country’s most trusted exchange.  
-2. **Active User Reactivation** – Re-engage dormant users and drive deposit and trading activity.  
-3. **Community & Brand Loyalty** – Build an engaged, education-driven crypto community across multiple platforms.
+The objective was not only growth, but **trust-scaled growth** — positioning BtcTurk | PRO as Türkiye’s most credible and institutionally trusted crypto exchange while accelerating user adoption.
+
+Key goals:
+1. Acquire first-time crypto investors at national scale  
+2. Reactivate dormant users and increase trading participation  
+3. Build long-term community trust through education and transparency  
 
 ---
 
-## Integrated Media & Activation Plan
+## Integrated Media & Activation Strategy
 
 ### Holistic Media Mix
 
-The campaign combined mass awareness with data-driven targeting and community activation:
+Growth was driven by a coordinated, full-funnel activation model:
 
-- **Television:** Nationwide prime-time visibility for credibility and reach.  
-- **Multi-format Digital Campaigns:** Educational, testimonial, and lifestyle-based videos adapted for YouTube, Meta, TikTok, and in-app placements.  
+- **Television:** Prime-time national visibility to establish credibility  
+- **Digital Performance Campaigns:**  
+  Educational, testimonial, and lifestyle-driven creatives across YouTube, Meta, TikTok, and in-app placements  
 - **Sports Sponsorships:**  
   - Naming partner of *BtcTurk Yeni Malatyaspor*  
   - Main supporter of the *Women’s National Football Team*  
-- **Outdoor + Digital Sync:** QR-connected billboards guiding users directly to the app store for instant download and onboarding.
+- **Outdoor + Digital Sync:**  
+  QR-connected OOH assets enabling direct app download and onboarding
 
-### Creative Direction & Core Message
+### Creative Direction
 
-- Theme: **“Real investors trade here.”**  
-- Visuals highlighted simplicity, professionalism, and security — aligned with the brand’s institutional tone.  
-- Core message: **“Türkiye’s most trusted crypto exchange – BtcTurk | PRO.”**
-
----
-
-## Social Media, Events & Community Building
-
-### Interactive Social Ecosystem
-
-A continuous flow of organic and community-focused campaigns kept users engaged and informed:
-
-**Community Challenges**
-
-- “Explain crypto in your own words” video challenge – *10,000+ submissions*  
-- “Show how you use the app” tutorials and content-sharing competitions  
-- Rotating micro-campaigns on education, financial literacy, and safe investing
-
-**Educational Series**
-
-- Weekly *Crypto Coffee* livestreams on Instagram & YouTube  
-- “Trading Tips in 60 Seconds” short-form videos for TikTok & Reels  
-
-**Platform Integration**
-
-- Telegram & Discord for AMAs, polls, and educational discussions  
-- Instagram & TikTok for visual storytelling, UGC, and feature updates  
-- Campaigns announced in parallel across Telegram, Discord, Instagram, TikTok for consistent messaging and maximum organic reach  
-
-### PR & Offline Events
-
-- Sponsorship and speaking slots at major **Fintech & Blockchain Summits** in Türkiye  
-- Nationwide **University Roadshow Series (“Blockchain 101”)** across 8 campuses  
-- Media coverage in **Webrazzi, Bloomberg HT, Capital Magazine** – *15M+ organic impressions*
+- Core theme: **“Real investors trade here.”**  
+- Visual language emphasized simplicity, professionalism, and security  
+- Message consistency across offline, digital, and in-app touchpoints
 
 ---
 
-## In-App & Data-Driven Growth Strategy
+## Community, Content & PR Activation
 
-### Insider SDK Integration
+### Social & Community Layer
 
-- Real-time segmentation of user journeys (sign-up, deposit, trading behavior)  
-- Trigger-based campaigns:
-  - *Registered but not deposited* → personalized push + offer  
-  - *Inactive for 30+ days* → 0% trading fee incentive  
-  - *Power users* → tier upgrade & exclusive benefits  
+- **Community challenges:**  
+  - “Explain crypto in your own words” — 10,000+ submissions  
+  - App usage tutorials and UGC-driven campaigns  
+- **Educational formats:**  
+  - Weekly *Crypto Coffee* livestreams (Instagram & YouTube)  
+  - Short-form “Trading Tips in 60 Seconds” for TikTok & Reels  
 
-- Continuous optimization via CPA, ROI, and reactivation dashboards  
+### Platform Integration
 
-### Recognition
+- Telegram & Discord for AMAs, education, and real-time engagement  
+- Instagram & TikTok for storytelling, UGC, and feature updates  
+- All campaigns launched simultaneously across channels to ensure trust consistency
 
-The campaign won two **Insider LIFT Awards (2021)**:
-- *Highest Mobile Engagement*  
-- *Best Use of Insider Platform*  
+### PR & Offline Presence
 
----
-
-## Budget & ROI
-
-- **Budget split:** 60% digital ads • 25% sponsorships • 10% PR & events • 5% community campaigns  
-- **ROI:** 3.8× overall  
-- **Impact:** user base scaled from **900K → 5M** in 6 months, organic traffic doubled, LTV +27%.
+- Speaking and sponsorships at major fintech & blockchain summits  
+- Nationwide **Blockchain 101 University Roadshows** (8 campuses)  
+- Earned media coverage across *Webrazzi, Bloomberg HT, Capital Magazine*  
+  → **15M+ organic impressions**
 
 ---
 
-## Performance & Financial Impact
+## In-App Growth & Data Strategy
 
-| Metric                     | Before   | After      | Change  |
-|----------------------------|----------|-----------:|--------:|
-| Total Users                | 900,000  | 5,000,000  | +455 %  |
-| Active User Rate           | 22 %     | 41 %       | +19 pts |
-| Avg User Acquisition Cost  | $13.2    | $10.9      | −17 %   |
-| Reactivation Cost (CPA)    | —        | $4.1       | —       |
-| Revenue Growth             | —        | +48 %      | —       |
-| Profit Margin              | 21 %     | 33 %       | +12 pts |
+### Insider SDK Implementation
 
-> *Profit margin impact is an estimation based on growth indicators and available public metrics.*
+- Behavioral segmentation across sign-up, deposit, and trading flows  
+- Trigger-based lifecycle campaigns:
+  - Registered but not deposited → personalized incentive  
+  - Inactive 30+ days → zero-fee reactivation offer  
+  - Power users → tier upgrades & exclusive benefits  
 
----
+- Continuous optimization via CPA, ROI, and reactivation dashboards
 
-## Key Takeaways
+### Industry Recognition
 
-This campaign became a benchmark for data-driven growth marketing in Türkiye’s crypto industry — combining measurable performance with genuine community engagement.  
-It proved that a crypto exchange can grow fivefold not only through advertising, but through **trust, education, and long-term community connection**.
+The campaign received two **Insider LIFT Awards (2021)**:
+- Highest Mobile Engagement  
+- Best Use of Insider Platform  
 
 ---
 
-> **Representative visual:** LIFT Awards 2021 – BtcTurk in-app engagement campaign  
-> *(photo available on orcunonur.com portfolio page)*
+## Budget & ROI Snapshot
+
+- **Budget allocation:**  
+  60% digital • 25% sponsorships • 10% PR/events • 5% community  
+- **ROI:** 3.8×  
+- **Outcomes:**  
+  - Users scaled from **900K → 5M+**  
+  - Organic traffic doubled  
+  - User lifetime value increased by **27%**
+
+---
+
+## Performance Impact
+
+| Metric                    | Before  | After       | Change   |
+|---------------------------|---------|------------:|---------:|
+| Total Users               | 900,000 | 5,000,000+  | +455 %   |
+| Active User Rate          | 22 %    | 41 %        | +19 pts  |
+| Avg Acquisition Cost      | $13.2   | $10.9       | −17 %    |
+| Reactivation CPA          | —       | $4.1        | —        |
+| Revenue Growth            | —       | +48 %       | —        |
+| Profit Margin (est.)      | 21 %    | 33 %        | +12 pts  |
+
+> *Financial impact figures are directional and based on growth indicators and publicly available benchmarks.*
+
+---
+
+## Key Takeaway
+
+This case became a benchmark for **trust-led growth in crypto** — proving that sustainable scale is achieved not through advertising alone, but through credibility, education, and community alignment treated as infrastructure.
+
+---
+
+**Compact case view:**  
+→ https://orcunonur.com/#portfolio  
+
+**Full references & documentation:**  
+→ https://cryptowisely.io/#references
