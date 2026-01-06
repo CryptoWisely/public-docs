@@ -3,7 +3,6 @@
 **Visibility:** Public (Architecture-level / Non-confidential)  
 **Scope:** US-grade RWA infrastructure design, settlement sequencing and institutional market access  
 **Timeframe:** 2024–2025  
-**Access (extended material):** https://cryptowisely.io/confidential-case-access-request/
 
 **Engagement Type:** Strategic architecture advisory  
 **Status:** Illustrative reference case — no client-identifying data
@@ -69,9 +68,6 @@ The guiding principle was **regulatory clarity first**, preserving future option
 
 ## Visibility note
 
-This page presents a **public, illustrative reference** of CryptoWisely’s RWA advisory approach.
+This page presents a **public, architecture-level reference** illustrating how CryptoWisely approaches RWA system design.
 
-Client-specific structures, legal mappings, and implementation diagrams  
-are excluded and shared **only upon request** where appropriate.
-
-Extended documentation may be reviewed selectively.
+Client-specific implementations, legal structures, and execution diagrams are intentionally excluded.
